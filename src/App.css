@@ -1,0 +1,30 @@
+.feedback-btn {
+  display: flex !important;
+  justify-content: space-evenly;
+}
+
+.counter {
+  display: flex !important;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  border: 1pxsolidrgba(0,0,0,.125) !important;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.tweets {
+  max-width: 200px;
+}
+
+.by {
+  opacity: 0.5;
+}
+
+.whole {
+  display: grid !important;
+  /* max-width: 200px; */
+}
